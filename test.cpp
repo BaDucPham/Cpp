@@ -8,4 +8,7 @@ int main(){
     cin>>lname;
     cout<<"Your full name is "<<fname<<" "<<lname;
     return 0;
+    // q: How to create an array
+    
+
 }
