@@ -6,9 +6,8 @@ int main(){
     cin>>fname;
     cout<<"Enter your last name: ";
     cin>>lname;
-    cout<<"Your full name is "<<fname<<" "<<lname;
+    cout<<"Your full name is "<<fname<<" "<<lname << "\n";
     return 0;
     // q: How to create an array
-    
 
 }
