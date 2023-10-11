@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <vector>
 #include <string>
@@ -26,3 +27,19 @@ int main(){
   DirReduction::dirReduc(arr);
   for (auto i:arr) cout << i << " ";
 }
+=======
+#include <bits/stdc++.h>
+using namespace std;
+#define FT     ios_base::sync_with_stdio(0), cin.tie(0);
+
+int main() {
+    FT;
+    int sum = 0;
+    for (int i = 100; i<=999;i++){
+        string s = to_string(i);
+        if (s[0] == s[2]) sum += i;
+    }
+    cout << sum;
+    return 0;
+}
+>>>>>>> d383e76 (update)
