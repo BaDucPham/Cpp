@@ -1,0 +1,1 @@
+{"name":"Local: check","url":"/home/ubuntu/workspace/Cpp/check.cpp","tests":[{"id":1722123744666,"input":"10 2 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ubuntu/workspace/Cpp/check.cpp","group":"local","local":true}
